@@ -1,6 +1,6 @@
 # English Readme
 
-##Description
+## Description
 This program uses to experiment with computer vision (with the opencv library and mediapipe). You can only use right hand, but further versions will work with lefthanded people. 
 
 ## How to Play
